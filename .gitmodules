@@ -1,0 +1,4 @@
+[submodule "dumdumgit.github.io"]
+	path = dumdumgit.github.io
+	url = https://github.com/dumdumGit/dumdumgit.github.io.git
+	branch = master
